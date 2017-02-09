@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{gui-slides}
+Gui testing.
+
+\bibitem{MonkeyRunner}
+Monkeyrunner, 2015.
+
+\bibitem{Monkey}
+Ui / application exerciser monkey, 2015.
+
+\bibitem{Artemis:2011:FAT:1985793.1985871}
+Shay Artzi, Julian Dolby, Simon~Holm Jensen, Anders M{\o}ller, and Frank Tip.
+\newblock A framework for automated testing of javascript web applications.
+\newblock In {\em Proceedings of the 33rd International Conference on Software
+  Engineering}, ICSE '11, pages 571--580, 2011.
+
+\bibitem{SwiftHand:2013:GGT:2509136.2509552}
+Wontae Choi, George Necula, and Koushik Sen.
+\newblock Guided gui testing of android apps with minimal restart and
+  approximate learning.
+\newblock In {\em Proceedings of the 2013 ACM SIGPLAN International Conference
+  on Object Oriented Programming Systems Languages \&\#38; Applications},
+  OOPSLA '13, pages 623--640, 2013.
+
+\bibitem{state-merging-dfa}
+Bernard Lambeau, Christophe Damas, and Pierre Dupont.
+\newblock State-merging dfa induction algorithms with mandatory merge
+  constraints.
+\newblock In {\em Grammatical Inference: Algorithms and Applications}, pages
+  139--153. Springer, 2008.
+
+\bibitem{EventBreak:2014:EAR:2660193.2660233}
+Michael Pradel, Parker Schuh, George Necula, and Koushik Sen.
+\newblock Eventbreak: Analyzing the responsiveness of user interfaces through
+  performance-guided test generation.
+\newblock In {\em Proceedings of the 2014 ACM International Conference on
+  Object Oriented Programming Systems Languages \& Applications}, OOPSLA '14,
+  pages 33--47, 2014.
+
+\end{thebibliography}
